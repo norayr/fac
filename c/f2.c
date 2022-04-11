@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define maxArg 6
+short const maxArg = 6;
 
 int fac(int n) {
   
